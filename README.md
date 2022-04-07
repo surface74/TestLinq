@@ -1,4 +1,5 @@
-# Siarhei Muliarenka
+## [Siarhei Muliarenka's CV](https://surface74.github.io/rsschool-cv/cv)
+
 
 ### Contact information:
 
@@ -49,6 +50,11 @@ const solution = num => {
     }, result);
 };
 ```
+---
+### Courses:
+* JavaScript Manual on [The Modern JavaScript Tutorial](https://javascript.info/)
+* Algorithms, Part I on [Coursera](https://www.coursera.org)
+---
 ### Languages:
 * English - Pre Intermediate (B2)
 * Russian - Native
