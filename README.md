@@ -51,6 +51,12 @@ const solution = num => {
 };
 ```
 ---
+### Projects:
+* [**Delivery Food**](https://surface74.github.io/delivery-food/) - HTML,CSS,JS
+* [**Netclicks**](https://surface74.github.io/netclicks/) - HTML,CSS,JS
+* [**Logitech**](https://surface74.github.io/Logitech/) - HTML,CSS,JS
+
+---
 ### Courses:
 * JavaScript Manual on [The Modern JavaScript Tutorial](https://javascript.info/)
 * Algorithms, Part I on [Coursera](https://www.coursera.org)
