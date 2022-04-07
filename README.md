@@ -54,6 +54,7 @@ const solution = num => {
 ### Courses:
 * JavaScript Manual on [The Modern JavaScript Tutorial](https://javascript.info/)
 * Algorithms, Part I on [Coursera](https://www.coursera.org)
+
 ---
 ### Languages:
 * English - Pre Intermediate (B2)
